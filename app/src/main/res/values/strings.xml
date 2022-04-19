@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Alhoshan-midT2</string>
+    <string-array name="locations">
+        <item>london</item>
+        <item>barcelona</item>
+        <item>rome</item>
+    </string-array>
+</resources>
